@@ -8,7 +8,8 @@ h1 {
 }
 
 .author-information {
-
+    display: grid;
+    grid-template-rows: 1fr 0.5fr;
 }
 
 .author-image {
@@ -16,5 +17,6 @@ h1 {
 }
 
 .author-summary {
-
+    grid-column: 1;
+    grid-row: 1/2;
 }
