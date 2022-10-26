@@ -1,0 +1,20 @@
+h1 {
+    padding: 20px;
+}
+
+.authors-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.author-information {
+
+}
+
+.author-image {
+
+}
+
+.author-summary {
+
+}
