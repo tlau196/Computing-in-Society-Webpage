@@ -1,0 +1,19 @@
+html {
+	font-family: Arial;
+	font-size: 15px;
+	color: floralwhite;
+}
+
+body {
+	background-color:  #333333;
+}
+
+h1 {
+	font-size: 3rem;
+	color: steelblue;
+}
+
+h2 {
+	font-size: 3rem;
+	color: royalblue;
+}
