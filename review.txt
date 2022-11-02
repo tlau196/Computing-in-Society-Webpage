@@ -1,0 +1,41 @@
+n = 2113
+
+1. Interest of Content: Good
+
+Chimp-Trade.HTML
+
+Full of varied and interesting content, has links to the pages the information is taken from.
+
+Index.HTML
+
+Extremely barren, needs more substance
+
+disabled.HTML
+
+Minimal amount of content, could use more elaboration on certain subjects, and more content overall.
+
+BCI.html
+
+Good, could have used a tiny bit more elaboration on the subject
+
+2. Consistency and quality of visual presentation: Very Good
+
+Fairly consistent, navbar of disabled.html does not work, reasoning given in added comments to the file.
+Formatting is slightly inconsistent and the colour of the index.html heading is different to that of the other pages.
+Layout could be improved, indentation?
+
+3. Quality of written presentation: Sound
+
+Many spelling errors, a few grammar errors. 
+
+4. Validity of HTML: Very Good
+
+Missing meta tags in many files, backslashes for filepaths, incorrect files used for bootstrap.
+
+All tags closed, generally good code.
+
+
+5. Evidence of Collaboration Very Good.
+
+Good balance of commits, All work done well in advance, Lacking author info completely.
+
