@@ -26,3 +26,29 @@ img {
 	display: block;
 	margin: 0 auto;
   }
+
+.adam-sewell-container {
+    display: flex;
+    justify-content: center;
+}
+
+.adam-sewell {
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    max-width: 1000px;
+}
+
+.adam-sewell a {
+    text-decoration: none;
+}
+
+.adam-sewell-github-container {
+    width: 100%;
+    text-align: center;
+
+}
+.adam-sewell-github {
+    color: black;
+}
