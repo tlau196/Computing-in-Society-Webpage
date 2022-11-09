@@ -1,0 +1,22 @@
+h1 {
+    padding: 20px;
+}
+
+.authors-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.author-information {
+    display: grid;
+    grid-template-rows: 1fr 0.5fr;
+}
+
+.author-image {
+
+}
+
+.author-summary {
+    grid-column: 1;
+    grid-row: 1/2;
+}
